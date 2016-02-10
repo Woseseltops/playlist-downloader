@@ -1,0 +1,4 @@
+Executables not included, but required in the same folder:
+* Youtube_dl, found at https://rg3.github.io/youtube-dl/
+* ffmpeg, found at https://ffmpeg.org/
+* ffprobe, found at https://ffmpeg.org/
